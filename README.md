@@ -75,5 +75,5 @@ Additionally, there is an LCD display with live readings for farmers who do not 
 
 - ✅ Ready for the future: It can become a solar-powered device with functionalities for pest detection, rainfall prediction, ​‍​‌‍​‍‌​‍​‌‍​‍‌etc.
 
-
+WE USED AI FOR SOME BUGS THAT WAS WITH OUR SOIL SENSOR ALSO WE USED AI TO REFINE THIS READ ME AND MAKE IT SOUND A BIT PROFESSIONAL 
 
