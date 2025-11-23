@@ -41,7 +41,7 @@ Additionally, there is an LCD display with live readings for farmers who do not 
 
 -  Auto Mode: The pump changes its state to ON/OFF automatically depending on the soil moisture level
 
--  Manual Mode: The farmer has a direct control of the pump to turn it on or off
+-  Manual Mode: The farmer can control the pump using app or website to turn it on or off
 
 - Threshold slider in Blynk app – soil moisture limits can be easily customized
 
